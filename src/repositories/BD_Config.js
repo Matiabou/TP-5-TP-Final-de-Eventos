@@ -6,6 +6,6 @@ export const Bd_config = {
     host : "localhost",
     database : "postgres",
     user : "postgres",
-    password : "root",
+    password : "kalinscky",
     port : 5432
 };
